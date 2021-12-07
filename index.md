@@ -8,5 +8,5 @@ This site is relatively empty for now but I hope to populate it with more of my 
 
 Thanks for takin the time to read this! I'll be back soon! 
 
-Check out my [posts](./blog.html)
+
 
