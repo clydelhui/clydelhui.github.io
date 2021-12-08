@@ -1,7 +1,7 @@
-theme: minima
-title: "Clyde Lhui's Personal Site"
-header_pages: 
-- about.md
 
+title: "Clyde Lhui's Personal Site"
+#header_pages: 
+#- about.md
 minima: 
   skin: dark
+theme: minima
