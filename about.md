@@ -1,3 +1,10 @@
+---
+layout: page
+title: about
+permalink: /about/
+---
+
+
 Hi there! I am Clyde Lhui, an undergraduate Computer Science student from the National University of Singapore.
 
 I'm currently also taking a second major in Physics.
