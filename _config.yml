@@ -1,4 +1,7 @@
 theme: minima
 title: "Clyde Lhui's Personal Site"
-header_pages:
+header_pages: 
 - about.md
+
+minima: 
+  skin: dark
