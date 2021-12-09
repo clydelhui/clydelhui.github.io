@@ -30,10 +30,10 @@ Well, these pieces of software are used to work with code. So I simply have to u
 
 This whole blog is hosted on Github. I upload new posts/configurations using Git Bash and I edit files with vim. Hence, what you're reading now is practice for me! I'm looking to using vim fully as my main text editor sometime in the future so we'll see how good I get over time.
 
-## Qiskit/Quantum Computing
+### Qiskit/Quantum Computing
 
 Physics is one of my main interests and I've been wanting to learn quantum computing seriously for quite some time. I first got exposed to Quantum Computing quite a whiles back during QCamp: A camp organised by NUS' Centre for Quantum Technologies. During the camp, we learnt quite a bit about how quantum computing works, along with other technologies such as Quantum Key Distribution (QKD) and superconductors. I didn't really manage to properly learn what was going on at that point of time largely due to my lack of mathematical maturity. This time, I hope to learn about quantum algorithms and how to write my own quantum circuits. Hopefully I can get an internship related to Quantum computing sometime in the future.
 
-## Python
+### Python
 
 While I've picked up several programming languages in the past (Java, C++, visual Basic etc.) I can't say that I have a language that I have really stuck with. In fact, I probably can't write a decent program in any of those programming languages right now. 
