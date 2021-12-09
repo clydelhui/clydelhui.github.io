@@ -10,13 +10,13 @@ I might not be able to complete everything that I set out to learn but hopefully
 
 Here are a couple of things that I'm planning to learn:
 	
-	- Vim
-	- Git/Github
-	- [Qiskit/Quantum Computing](https://youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-	- [Python](https://www.python.org/)
-	- [Typescript](https://www.typescriptlang.org/)
-	- [Ruby on Rails](https://youtu.be/fmyvWz5TUWg)
-	- Maybe some Java
+- Vim
+- Git/Github
+- [Qiskit/Quantum Computing](https://youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+- [Python](https://www.python.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Ruby on Rails](https://youtu.be/fmyvWz5TUWg)
+- Maybe some Java
 
 Looks kinda crazy eh.
 
